@@ -1,4 +1,4 @@
-# Automação de Testes com a Ferramenta Cypress 👩🏼‍💻 
+# Automação de Testes com a Ferramenta Cypress 👩🏾‍💻
 
 - Necessário ter o node.js
 
